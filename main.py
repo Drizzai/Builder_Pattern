@@ -37,7 +37,7 @@ director.build_dish()
 
 print("________________________________________________________________")
 
-builder = DesertBuilder()
+builder = DessertBuilder()
 director.builder = builder
 
 builder.dish_part_a("Lody")
